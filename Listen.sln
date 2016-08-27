@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConsoleApplication2", "ConsoleApplication2\ConsoleApplication2.vcxproj", "{2B94D74D-AFD1-4BD1-B365-8AF033E004BE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{60FA8A0B-AA37-4380-B978-083242487811}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\packages.config = .nuget\packages.config
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B94D74D-AFD1-4BD1-B365-8AF033E004BE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2B94D74D-AFD1-4BD1-B365-8AF033E004BE}.Debug|Win32.Build.0 = Debug|Win32
+		{2B94D74D-AFD1-4BD1-B365-8AF033E004BE}.Release|Win32.ActiveCfg = Release|Win32
+		{2B94D74D-AFD1-4BD1-B365-8AF033E004BE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
